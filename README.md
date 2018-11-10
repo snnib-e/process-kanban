@@ -1,2 +1,2 @@
 # process-kanban
-Measure and track your process.
+Measure and track your processes.
