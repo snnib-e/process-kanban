@@ -1,0 +1,19 @@
+{
+  "name": "process-kanban",
+  "version": "1.0.0",
+  "description": "Measure and track your progress.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snnib-e/process-kanban.git"
+  },
+  "author": "Evon Binns, Phillip Logan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/snnib-e/process-kanban/issues"
+  },
+  "homepage": "https://github.com/snnib-e/process-kanban#readme"
+}
